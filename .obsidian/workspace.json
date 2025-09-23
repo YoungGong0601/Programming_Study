@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_posts/2025-09-23-first-post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-09-23-first-post"
             }
           }
         ]
@@ -182,7 +182,10 @@
   },
   "active": "dbc06f5363b78af8",
   "lastOpenFiles": [
+    "정의/Unity.md",
+    "_posts/2025-09-23-first-post.md",
     "index.md",
+    "README.md",
     "x.md",
     "_config.yml",
     "TestBase.base",
