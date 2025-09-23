@@ -2,8 +2,12 @@
 layout: home
 title: Home
 ---
+# 안녕하세요 
 
-# 환영합니다
-첫 번째 블로그.
-> - abc
-> - [ ] 가나다라마바사 
+MarkDown `.md`
+```
+int main()
+{
+	printf("Hello, World!");
+}
+```

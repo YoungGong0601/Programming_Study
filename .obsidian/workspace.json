@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -180,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7af99be40178198c",
+  "active": "dbc06f5363b78af8",
   "lastOpenFiles": [
+    "index.md",
     "_config.yml",
     "TestBase.base",
-    "index.md",
     "TestCanvas.canvas",
     "무제 1.canvas",
     "무제.canvas",
