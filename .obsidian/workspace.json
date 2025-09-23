@@ -11,13 +11,14 @@
             "id": "dbc06f5363b78af8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TestBase.base",
-                "viewName": "표"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "TestBase"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TestBase.base",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "TestBase 의 백링크"
+              "title": "index 의 백링크"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TestBase.base",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "TestBase 의 나가는 링크"
+              "title": "index 의 나가는 링크"
             }
           },
           {
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TestBase.base",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TestBase 의 개요"
+              "title": "index 의 개요"
             }
           },
           {
@@ -181,8 +182,8 @@
   },
   "active": "dbc06f5363b78af8",
   "lastOpenFiles": [
-    "Index.md",
     "TestBase.base",
+    "index.md",
     "TestCanvas.canvas",
     "무제 1.canvas",
     "무제.canvas",
