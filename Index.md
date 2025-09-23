@@ -1,14 +1,9 @@
-
 ---
-Layout: none
-Title: 내 공간
+layout: home
+title: Home
 ---
-# 안녕하세요 
 
-MarkDown `.md`
-```
-int main()
-{
-	printf("Hello, World!");
-}
-```
+# 환영합니다
+첫 번째 블로그.
+> - abc
+> - [ ] 가나다라마바사 

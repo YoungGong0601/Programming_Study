@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbc06f5363b78af8",
+  "active": "7af99be40178198c",
   "lastOpenFiles": [
+    "_config.yml",
     "TestBase.base",
     "index.md",
     "TestCanvas.canvas",
