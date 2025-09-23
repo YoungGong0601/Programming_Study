@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-09-23-first-post.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-23-first-post"
+              "title": "README"
+            }
+          },
+          {
+            "id": "94381ade3cb2f1c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test/Emoji.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emoji"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,18 +195,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbc06f5363b78af8",
+  "active": "94381ade3cb2f1c3",
   "lastOpenFiles": [
-    "정의/Unity.md",
+    "README.md",
+    "Test/Emoji.md",
+    "Test",
+    "_posts/정의/Unity.md",
+    "TestBase.base",
     "_posts/2025-09-23-first-post.md",
     "index.md",
-    "README.md",
     "x.md",
     "_config.yml",
-    "TestBase.base",
     "TestCanvas.canvas",
     "무제 1.canvas",
     "무제.canvas",
-    "정의"
+    "_posts/정의"
   ]
 }
