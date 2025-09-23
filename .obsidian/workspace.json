@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "a5a3acea065a6d5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c7d7b0e2823cb82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc06f5363b78af8",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TestBase.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "TestBase"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fbe91fdfd037b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "0de02b7fb6c5168b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7af99be40178198c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "2fbeb0f0a2b51715",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "20fd37aa8b17c415",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18bacfd593f53034",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0c35ea01a305946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6911f96f57e08e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TestBase.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "TestBase 의 백링크"
+            }
+          },
+          {
+            "id": "a84889f718c95170",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TestBase.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "TestBase 의 나가는 링크"
+            }
+          },
+          {
+            "id": "9af0942384a7a777",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "3d87c78abdd5c057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TestBase.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "TestBase 의 개요"
+            }
+          },
+          {
+            "id": "ab0528c103ad6e0c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dbc06f5363b78af8",
+  "lastOpenFiles": [
+    "Index.md",
+    "TestBase.base",
+    "TestCanvas.canvas",
+    "무제 1.canvas",
+    "무제.canvas",
+    "정의"
+  ]
+}
