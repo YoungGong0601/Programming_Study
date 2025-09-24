@@ -11,8 +11,8 @@ exclude:
   - 템플릿/
 
 # TeXt 테마 전용 옵션
-text_skin: "ocean"         # default / night / forest / ocean / paper
-highlight: "default"       # default / tomorrow / tomorrow-night / github .
+text_skin: "ocean"          # default / night / forest / ocean / paper
+highlight: "github"         # default / github / tomorrow / tomorrow-night / zenburn .
 
 # 폰트 설정
 text_font: "Noto Sans KR"   # 구글폰트 예시
