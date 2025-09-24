@@ -2,7 +2,7 @@ title: "_CODE Sky"
 author: "YoungGong"
 
 # 테마 적용
-remote_theme: "poole/hyde"
+remote_theme: "kitian616/jekyll-TeXt-theme"
 
 plugins:
   - jekyll-remote-theme
