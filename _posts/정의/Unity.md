@@ -1,3 +1,8 @@
+---
+layout: post
+title: Unity
+permalink: /정의/Unity
+---
 
 ---
 ### - 정의:
