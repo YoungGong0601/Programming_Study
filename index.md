@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: Home
 ---
 # 안녕하세요 
