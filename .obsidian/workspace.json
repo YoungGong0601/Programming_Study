@@ -223,8 +223,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d852ea49018dc89",
+  "active": "ab0528c103ad6e0c",
   "lastOpenFiles": [
+    "asset/css/custom.scss",
+    "asset/css",
+    "asset/fonts/css",
+    "asset/fonts",
+    "asset",
+    "_includes/head/custom.html",
+    "_includes/head",
+    "_includes",
     "Test/Emoji.md",
     "템플릿/{{date}}.md",
     "_posts/2025-09-24-Test.md",
@@ -239,10 +247,8 @@
     "Test",
     "TestBase.base",
     "x.md",
-    "_config.yml",
     "TestCanvas.canvas",
     "무제 1.canvas",
-    "무제.canvas",
-    "_posts/정의"
+    "무제.canvas"
   ]
 }

@@ -1,14 +1,21 @@
 title: "_CODE Sky"
 author: "YoungGong"
 
-# 테마 적용
 remote_theme: "kitian616/jekyll-TeXt-theme"
 
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-
-# Jekyll 빌드에서 제외할 폴더
 exclude:
   - 템플릿/
+
+# TeXt 테마 전용 옵션
+text_skin: "ocean"
+
+# 폰트 설정
+text_font: "Noto Sans KR"   # 구글폰트 예시
+
+# Load SCSS (없어도 자동탐지 하기는 함)
+sass:
+  style: compressed

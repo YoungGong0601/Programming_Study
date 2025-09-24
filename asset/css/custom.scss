@@ -1,0 +1,31 @@
+// @font-face {
+//     font-family: 'MyFont';
+//     src: url('/assets/fonts/MyFont-Regular.ttf') format('truetype');
+//     font-weight: normal;
+//     font-style: normal;
+//   }
+  
+// @font-face {
+// font-family: 'MyFont';
+// src: url('/assets/fonts/MyFont-Bold.ttf') format('truetype');
+// font-weight: bold;
+// font-style: normal;
+// }
+
+  
+
+// 본문 기본 폰트
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+// 제목 전용 폰트
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 700;
+}
+
+// 코드 블럭/인라인 코드 전용 폰트
+code, pre {
+  font-family: 'Roboto Mono', monospace;
+}
