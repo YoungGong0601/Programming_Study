@@ -6,6 +6,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
+
 
 # Jekyll 빌드에서 제외할 폴더
 exclude:
